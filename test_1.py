@@ -53,3 +53,5 @@ if torch.cuda.is_available():
     print(f"GPU 内存总量: {torch.cuda.get_device_properties(0).total_memory / 1e9:.2f} GB")
 else:
     print("PyTorch 不支持 CUDA。")
+
+#666,这个人是桂
